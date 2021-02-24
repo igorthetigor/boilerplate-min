@@ -1,0 +1,14 @@
+.regular {
+  background-color: skyblue;
+  text-align: center;
+}
+
+.wholeCake {
+  display: flex;
+  flex-direction: column;
+  height: 98vh;
+}
+
+.footer {
+  margin-top: auto;
+}
